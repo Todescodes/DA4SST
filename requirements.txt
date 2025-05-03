@@ -1,0 +1,7 @@
+tqdm==4.67.1 
+torch==2.6.0
+pandas==2.2.3
+langchain==0.3.23
+langchain-huggingface==0.1.2
+langchain-community==0.3.21
+langchain-text-splitters==0.3.8
